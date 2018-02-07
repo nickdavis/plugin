@@ -1,0 +1,7 @@
+{
+  "require": {
+    "htmlburger/carbon-fields": "2.1.*",
+    "johnbillion/extended-cpts": "^4.0"
+  }
+}
+
